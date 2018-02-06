@@ -1,7 +1,5 @@
 
 
-
-
 function forLoop() {
   for (let i = 0; i < 25; i++) {
 
@@ -11,3 +9,4 @@ else  console.log(`"I am the ${i} strange loops."`)
 
 }
 }
+
