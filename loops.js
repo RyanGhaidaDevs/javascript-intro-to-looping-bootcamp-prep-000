@@ -1,5 +1,5 @@
 
-var forLoop = new Array()
+
 
 var forLoop =   function forLoop() {
   for (let i = 0; i < 25; i++) {
