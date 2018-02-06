@@ -1,5 +1,5 @@
 
-var forLoop = new Array () 
+var forLoop = new Array ()
 
 function Loopy() {
   for (let i = 0; i < 25; i++) {
@@ -10,4 +10,3 @@ else  console.log(`"I am the ${i} strange loops."`)
 
 }
 }
-
