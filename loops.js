@@ -1,5 +1,5 @@
 
-forLoop = [1,2,3]
+var forLoop = [1,2,3]
 
 function forLoop {
   for (let i = 0; i < 25; i++) {
