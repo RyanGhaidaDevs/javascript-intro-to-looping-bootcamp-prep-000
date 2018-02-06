@@ -1,7 +1,7 @@
 
 
 
-var forLoop =   function forLoop()
+var forLoop =  function forLoop()
  {
   for (let i = 0; i < 25; i++) {
 
