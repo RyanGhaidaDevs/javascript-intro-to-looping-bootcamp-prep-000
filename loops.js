@@ -9,4 +9,3 @@ else  console.log(`"I am the ${i} strange loops."`)
 
 }
 }
-
