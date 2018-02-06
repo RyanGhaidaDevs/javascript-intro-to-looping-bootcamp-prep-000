@@ -44,8 +44,7 @@ function doWhileLoop(array) {
     console.log('doo-bee-doo-bee-doo')
   } while (array.length > 0 && maybeTrue())
 
-  x.shift(array)
+  array.shift(array)
 
+return array
   }
-  return array
-}
