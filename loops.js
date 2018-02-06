@@ -6,9 +6,12 @@
 
 if (i==1) {
 
-  console.log( `"I am the 1 strange loop."`)
 
-} else { console.log(`"I am the ${i} strange loops."`)
+  array.push( `"I am the 1 strange loop."`)
+
+} else { 
+
+  array.push(`"I am the ${i} strange loops."`)
 
 }
 
